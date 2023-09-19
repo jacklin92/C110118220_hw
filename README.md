@@ -58,5 +58,5 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |:--------:|:--------:| ----------:|
 | *Still*  | `rander` | **Nicely** |
 |    1     |    2     |          3 |
+![NKUST](nkust.jpg "高科大")
 
-![NKUST](th(4).jpg)
