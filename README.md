@@ -55,7 +55,7 @@ The outer pipes () are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.</p>
 
 | Markdown |   Less   |     Pretty |
-|:--------:|:--------:| ----------:|
+|:--------|:--------:| ----------:|
 | *Still*  | `rander` | **Nicely** |
 |    1     |    2     |          3 |
 |    4     |    5     |      6|
