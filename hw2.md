@@ -20,7 +20,7 @@ gantt
 ```
 ## PERT/CPM圖
 
-![PERT](2023-10-03.png)
+![PERT](PERT.png)
 
 
 ## 關鍵路徑
