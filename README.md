@@ -62,4 +62,35 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 |    4     |    5     |      6|
 
 ![NKUST](nkust.jpg "高科大")
+```mermaid
+gantt
+    title 甘特圖
 
+    section 數據收集
+    各項數據收集:a1,2024-02-19, 5d
+    讀取數據:a2,2024-02-21,3d
+    section 數據預處理
+    資料正規化:a3,after a2, 10d
+    section 數據建模
+    建置數據庫結構:a4,after a3,7d
+    section 數據庫設計
+    建立數據庫:a5,after a4,7d
+    section 數據庫搭建
+    備份數據庫:a6,after a5,7d
+    section 數據入庫
+    將預處理後的資料導入數據庫:a7,after a6,3d
+    section 數據查詢
+    使用Python進行數據的查詢:a8,after a7,4d
+    section 數據可視化
+    Matplotlib產出圖表:a9,after a7,3d
+    section 模型訓練
+    訓練模型:a10,after a7,5d
+    section 模型評估
+    評估並改善模型:a11,after a10,2d
+    section 平台建置
+    創建平台:a12,after a11,3d
+    section 模型部屬
+    部屬模型到系統:a13,after a12,3d
+    section 測試平台功能
+    最終測試及改善平台:a14,after a13,5d
+```
