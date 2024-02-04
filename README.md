@@ -64,7 +64,7 @@ raw Markdown line up prettily. You can also use inline Markdown.</p>
 ![NKUST](nkust.jpg "高科大")
 ```mermaid
 gantt
-    title 甘特圖
+    title 研究流程
 
     section 數據收集
     各項數據收集:a1,2024-02-19, 5d
